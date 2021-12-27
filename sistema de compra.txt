@@ -1,1 +1,2 @@
 selecione a forma de pagamento 
+selecione a quantidade de parcelas 
